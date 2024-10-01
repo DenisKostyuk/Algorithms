@@ -45,11 +45,7 @@ public:
         }
     }
     
-    /*
-    void createNode(int data) {
-        Node* nd = new Node(data);
-    }
-    */
+    
 
     bool isExist(int data) {
         Node* curr = this->head;
