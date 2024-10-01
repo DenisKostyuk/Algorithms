@@ -44,8 +44,8 @@ public:
             curr->next = n;
         }
     }
-    
-    
+
+
 
     bool isExist(int data) {
         Node* curr = this->head;
