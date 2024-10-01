@@ -63,7 +63,7 @@ public:
     }
 };
 
-
+/*
 int main() {
     
     LinkedList l1;
@@ -79,8 +79,5 @@ int main() {
     l1.isExist(400);
     l1.isExist(33);
 
-
-
-
 }
-
+*/

@@ -1,7 +1,17 @@
 #include <iostream>
-
+#include "doublynode.h"
 using namespace std;
-/*
+
+class DoublyLinkedList {
+public:
+	DoublyNode* head;
+
+
+
+
+
+};
+
 int main() {
 
 
@@ -10,4 +20,3 @@ int main() {
 
 	return 0;
 }
-*/
