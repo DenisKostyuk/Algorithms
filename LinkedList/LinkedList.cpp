@@ -1,20 +1,7 @@
 #include <iostream>
+#include "node.h"
 using namespace std;
 
-/*
-Node class
-*/
-class Node {
-public:
-    int data;
-    Node* next;
-
-    Node(int data) : data(data), next(nullptr) {}
-
-    void printNodeData() {
-        std::cout << data << std::endl;
-    }
-};
 
 /*
 LinkedList class
