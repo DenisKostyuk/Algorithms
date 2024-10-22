@@ -20,6 +20,8 @@ public:
 		std::cout << "Distructor has finished deleting the whole DoublyLinkedList." << std::endl;
 	}
 
+	//test
+
 	void addNode(int data) {
 		if (this->head == nullptr) {
 			this->head = new DoublyNode(data);
