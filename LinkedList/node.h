@@ -1,7 +1,4 @@
 #pragma once
-#ifndef NODE_H
-#define NDDE_h
-
 #include <iostream>
 
 class Node {
@@ -14,4 +11,3 @@ public:
 	}
 };
 
-#endif

@@ -1,5 +1,5 @@
 #pragma once
-#ifndef DOUBLYNODE_H
+
 #include <iostream>
 
 class DoublyNode {
@@ -13,4 +13,3 @@ public:
 };
 
 
-#endif

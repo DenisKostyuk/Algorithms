@@ -20,7 +20,6 @@ public:
 		std::cout << "Distructor has finished deleting the whole DoublyLinkedList." << std::endl;
 	}
 
-	//test
 
 	void addNode(int data) {
 		if (this->head == nullptr) {
@@ -59,7 +58,7 @@ public:
 
 
 };
-
+/*
 int main() {
 
 	DoublyLinkedList lst;
@@ -74,3 +73,4 @@ int main() {
 
 	return 0;
 }
+*/
